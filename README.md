@@ -4,7 +4,8 @@
 
 # 💰 ExpenseTracker
 
-**Your smart, beautiful way to manage money and hit your goals.**
+
+***Your smart, beautiful way to manage money and hit your goals.***
 *Built with Flutter. Free, secure, simple.*
 
 **Tip:** Most phones today use `arm64-v8a` APK!
