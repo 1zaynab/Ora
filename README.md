@@ -25,7 +25,7 @@
 
 **Not on Google Play (it’s 100% free!)**
 
-1. **Go to [Releases]([https://github.com/yourusername/your-repo-name/releases](https://github.com/1zaynab/Ora/releases))**
+1. **Go to [Releases](https://github.com/1zaynab/Ora/releases))**
 
 2. **Choose the right APK:**
 
