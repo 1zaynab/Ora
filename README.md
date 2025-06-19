@@ -25,7 +25,7 @@
 
 **Not on Google Play (it’s 100% free!)**
 
-1. **Go to [Releases](https://github.com/yourusername/your-repo-name/releases)**
+1. **Go to [Releases]([https://github.com/yourusername/your-repo-name/releases](https://github.com/1zaynab/Ora/releases))**
 
 2. **Choose the right APK:**
 
@@ -101,6 +101,6 @@ MIT License – see LICENSE file
 ---
 
 **Tip:** Most phones today use `arm64-v8a` APK!
-Ready to track your money? **[Download now!]https://github.com/1zaynab/Ora.git/releases)** 
+Ready to track your money? **[Download now!] https://github.com/1zaynab/Ora/releases** 
 
 --- 
