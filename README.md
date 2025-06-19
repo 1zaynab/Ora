@@ -6,7 +6,8 @@
 
 **Your smart, beautiful way to manage money and hit your goals.**
 *Built with Flutter. Free, secure, simple.*
-
+**Tip:** Most phones today use `arm64-v8a` APK!
+Ready to track your money? **[Download now!](https://github.com/1zaynab/Ora/releases/download/v.0.0/app-arm64-v8a-release.apk)** 
 ---
 
 ## ✨ Why ExpenseTracker?
